@@ -15,10 +15,10 @@ export const Blog = () => {
                 <img src={item.img} alt="" />
               </div>
               <div className="content">
-                <a href="#" className="title">
+                <a href="/" className="title">
                   tasty and refreshing foods
                 </a>
-                <span>by admin / 21st may, 2021</span>
+                <span>by admin / 21st may, 2024</span>
                 <p>
                   We invite you to join the conversation by commenting on our
                   posts, sharing your own culinary experiences, and connecting
